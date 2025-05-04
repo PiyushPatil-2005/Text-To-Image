@@ -2,7 +2,7 @@
 
 A full-stack web application that converts text descriptions into images using AI technology. Built with React, Node.js, and MongoDB.
 
-**Live Demo**: [https://text-to-image-generator-7fey.onrender.com] (https://text-to-image-generator-7fey.onrender.com)
+**Live Demo**: ( https://text-to-image-generator-7fey.onrender.com )
 
 ## Features
 
