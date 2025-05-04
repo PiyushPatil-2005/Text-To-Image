@@ -42,5 +42,5 @@ A full-stack web application that converts text descriptions into images using A
 
 ### Clone the repo
 ```bash
-git clone https://github.com/your-username/Text-To-Image.git
+git clone https://github.com/PiyushPatil-2005/Text-To-Image.git
 cd Text-To-Image
