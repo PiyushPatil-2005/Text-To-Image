@@ -5,6 +5,9 @@ import instagram_icon from './instagram_icon.svg'
 import twitter_icon from './twitter_icon.svg'
 import star_icon from './star_icon.svg'
 import rating_star from './rating_star.svg'
+import header_img_1 from './header1.png'
+import header_img_2 from './header2.png'
+import header_img_3 from './header3.png'
 import sample_img_1 from './sample_img_1.png'
 import sample_img_2 from './sample_img_2.png'
 import profile_img_1 from './profile_img_1.jpg'
@@ -29,6 +32,9 @@ export const assets = {
     twitter_icon,
     star_icon,
     rating_star,
+    header_img_1,
+    header_img_2,
+    header_img_3,
     sample_img_1,
     sample_img_2,
     email_icon,
