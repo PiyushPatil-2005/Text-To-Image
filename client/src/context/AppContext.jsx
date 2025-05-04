@@ -14,7 +14,7 @@ const AppContextProvider = (props) => {
 
     const [credit, setCredit] = useState(false);
 
-    const backendUrl = import.meta.env.VITE_BACKEND_URL;
+    const backendUrl = "https://text-to-image-backend-cydh.onrender.com";
 
     const navigate = useNavigate();
 
